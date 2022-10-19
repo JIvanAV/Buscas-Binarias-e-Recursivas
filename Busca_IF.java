@@ -1,4 +1,4 @@
-package buscas;
+package Buscas;
 
 public interface Busca_IF { //Interfase para implementação da classe "busca".
     
